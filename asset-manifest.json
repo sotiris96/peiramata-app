@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/peiramata-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/peiramata-app/static/js/main.25510cb5.chunk.js",
+    "main.js.map": "/peiramata-app/static/js/main.25510cb5.chunk.js.map",
+    "runtime-main.js": "/peiramata-app/static/js/runtime-main.cb856859.js",
+    "runtime-main.js.map": "/peiramata-app/static/js/runtime-main.cb856859.js.map",
+    "static/js/2.56617b2b.chunk.js": "/peiramata-app/static/js/2.56617b2b.chunk.js",
+    "static/js/2.56617b2b.chunk.js.map": "/peiramata-app/static/js/2.56617b2b.chunk.js.map",
+    "static/js/3.7fae5be3.chunk.js": "/peiramata-app/static/js/3.7fae5be3.chunk.js",
+    "static/js/3.7fae5be3.chunk.js.map": "/peiramata-app/static/js/3.7fae5be3.chunk.js.map",
+    "index.html": "/peiramata-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/peiramata-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.56617b2b.chunk.js.LICENSE.txt": "/peiramata-app/static/js/2.56617b2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb856859.js",
+    "static/js/2.56617b2b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.25510cb5.chunk.js"
+  ]
+}
